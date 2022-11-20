@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectOne</string>
+    <string name="titulo">willkommen</string>
+    <string name="entrar">Betreten</string>
+    <string name="background">Background</string>
+</resources>
